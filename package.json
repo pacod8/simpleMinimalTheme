@@ -3,6 +3,7 @@
     "displayName": "",
     "description": "Minimal VS Code theme for focusing on programming",
     "version": "0.0.1",
+    "publisher": "fdominguez",
     "engines": {
         "vscode": "^1.58.0"
     },
